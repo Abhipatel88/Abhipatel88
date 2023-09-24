@@ -1,4 +1,4 @@
-![logo](https://github.com/abhipatelp/abhipatelp/blob/main/ss.jpg)
+![logo](https://github.com/Abhipatel88/Abhipatel88/blob/main/ss.jpg)
 <h1 align="center">Hi 👋, I'm Abhi Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
